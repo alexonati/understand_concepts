@@ -6,3 +6,5 @@
 - first class vs. HOF
 - data structures: lists, sets, tupples, dicts and their comprehensions, slicing
 - loops, iterations
+- errors
+- writing/saving in/to files
